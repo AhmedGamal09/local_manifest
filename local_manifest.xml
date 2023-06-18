@@ -9,7 +9,7 @@
         <!-- Sync trees -->
         <project path="device/xiaomi/mojito" name="AhmedGamal09/device_xiaomi_mojito" remote="mojito" revision="spark" />
         <project path="vendor/xiaomi/mojito" name="AhmedGamal09/vendor_xiaomi_mojito" remote="mojito" revision="lineage-20" />
-        <project path="kernel/xiaomi/mojito" name="TejasKamat/kernel_xiaomi_mojito" remote="mojito" revision="tiramisu" />
-        <!-- <project path="kernel/xiaomi/mojito" name="fiqri19102002/android_kernel_xiaomi_mojito" remote="mojito" revision="inline-rom" /> -->
+        <project path="kernel/xiaomi/mojito" name="fiqri19102002/android_kernel_xiaomi_mojito" remote="mojito" revision="tiramisu" />
+        <!-- <project path="kernel/xiaomi/mojito" name="TejasKamat/kernel_xiaomi_mojito" remote="mojito" revision="inline-rom" /> -->
         <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />    
 </manifest>
