@@ -7,8 +7,8 @@
                 fetch="https://gitlab.com/ImSurajxD" />
 
         <!-- Sync trees -->
-        <project path="device/xiaomi/mojito" name="AhmedGamal09/device_xiaomi_mojito" remote="github" revision="rising-13" />
-        <project path="vendor/xiaomi/mojito" name="AhmedGamal09/vendor_xiaomi_mojito" remote="github" revision="lineage-20" />
-        <project path="kernel/xiaomi/mojito" name="fiqri19102002/android_kernel_xiaomi_mojito" remote="github" revision="inline-rom" />
-        <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
+        <project path="device/xiaomi/mojito" name="AhmedGamal09/device_xiaomi_mojito" remote="mojito" revision="xtended" />
+        <project path="vendor/xiaomi/mojito" name="AhmedGamal09/vendor_xiaomi_mojito" remote="mojito" revision="lineage-20" />
+        <project path="kernel/xiaomi/mojito" name="fiqri19102002/android_kernel_xiaomi_mojito" remote="mojito" revision="inline-rom" />
+        <!-- <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" /> -->
 </manifest>
