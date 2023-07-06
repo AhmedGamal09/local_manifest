@@ -15,7 +15,7 @@
         <!-- Sync trees -->
         <project path="device/xiaomi/mojito" name="AhmedGamal09/device_xiaomi_mojito" remote="mojito" revision="xt-test3" />
         <project path="vendor/xiaomi/mojito" name="AhmedGamal09/vendor_xiaomi_mojito" remote="mojito" revision="xt-test" />
-        <project path="kernel/xiaomi/mojito" name="fiqri19102002/android_kernel_xiaomi_mojito" remote="mojito" revision="inline-rom" />
+        <project path="kernel/xiaomi/mojito" name="fiqri19102002/android_kernel_xiaomi_mojito" remote="mojito" revision="a11/main" />
         <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
         <project path="hardware/xiaomi" name="AhmedGamal09/hardware_xiaomi" remote="mojito" revision="lineage-20" clone-depth="1" />
         <!-- <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-20" clone-depth="1" /> -->
