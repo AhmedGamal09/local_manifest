@@ -20,6 +20,8 @@
         <project path="hardware/xiaomi" name="AhmedGamal09/hardware_xiaomi" remote="mojito" revision="xt-stable" clone-depth="1" />
         <remove-project name="vendor_xtended" />
         <project path="vendor/xtended/" name="AhmedGamal09/vendor_xtended_mojito" revision="xt" remote="mojito" />
+        <remove-project name="android_vendor_qcom_opensource_display" />
+        <project path="vendor/qcom/opensource/commonsys-intf/display" name="AhmedGamal09/android_vendor_qcom_opensource_display" revision="lineage-20.0" remote="mojito" />
         <remove-project name="CannedShroud/android_packages_apps_KProfiles" />
         <!-- <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-20" clone-depth="1" /> -->
 </manifest>
