@@ -5,8 +5,8 @@
                 fetch="https://github.com" />
         <remote name="gitlabMojito"
                 fetch="https://gitlab.com/AhmedGamal09" />
-        <remote name="ImSurajxD"
-                fetch="https://gitlab.com/ImSurajxD" />
+        <remote name="SpiceOS"
+                fetch="https://gitlab.com/spiceos" />
         <remote name="LineageOS"
                 fetch="https://github.com/LineageOS" />
 
@@ -18,7 +18,7 @@
         
         <project path="kernel/xiaomi/sm6150" name="xiaomi-sdm678/android_kernel_xiaomi_mojito" remote="mojito" revision="13" />
         
-        <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
+        <project path="prebuilts/clang/host/linux-x86/clang-9597734" name="android_prebuilts_clang_host_linux-x86_clang-9597734" remote="SpiceOS" revision="13" />
         
         <remove-project name="lineageos/android_hardware_xiaomi" />
         <project path="hardware/xiaomi" name="AhmedGamal09/hardware_xiaomi" remote="mojito" revision="xt-stable" clone-depth="1" />
