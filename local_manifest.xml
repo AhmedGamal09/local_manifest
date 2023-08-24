@@ -16,7 +16,7 @@
         <project path="vendor/xiaomi/mojito" name="android_vendor_xiaomi_mojito" remote="gitlabMojito" revision="13" />
         <project path="vendor/xiaomi/sm6150-common" name="android_vendor_xiaomi_sm6150-common" remote="gitlabMojito" revision="13" />
         
-        <project path="kernel/xiaomi/sm6150" name="xiaomi-sdm678/android_kernel_xiaomi_mojito" remote="mojito" revision="13" />
+        <project path="kernel/xiaomi/sm6150" name="Sr-Han/WestCoast_KernelSU" remote="mojito" revision="13" />
         
         <project path="prebuilts/clang/host/linux-x86/clang-9597734" name="android_prebuilts_clang_host_linux-x86_clang-9597734" remote="SpiceOS" revision="13" />
         
