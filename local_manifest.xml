@@ -5,8 +5,8 @@
                 fetch="https://github.com" />
         <remote name="gitlabMojito"
                 fetch="https://gitlab.com/AhmedGamal09" />
-        <remote name="SpiceOS"
-                fetch="https://gitlab.com/spiceos" />
+        <remote name="crdroid"
+                fetch="https://gitlab.com/crdroidandroid" />
         <remote name="LineageOS"
                 fetch="https://github.com/LineageOS" />
 
@@ -18,7 +18,7 @@
         
         <project path="kernel/xiaomi/sm6150" name="xiaomi-sdm678/android_kernel_xiaomi_mojito" remote="mojito" revision="13" />
         
-        <project path="prebuilts/clang/host/linux-x86/clang-9597734" name="android_prebuilts_clang_host_linux-x86_clang-9597734" remote="SpiceOS" revision="13" />
+        <project path="prebuilts/clang/host/linux-x86/clang-r498229b" name="android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="crdroid" revision="13" />
 
          <!-- Packages -->
         <project path="packages/apps/ViPER4AndroidFX" name="AhmedGamal09/ViPER4AndroidFX" remote="mojito" revision="v4a" />
