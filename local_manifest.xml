@@ -24,7 +24,7 @@
         <project path="packages/apps/ViPER4AndroidFX" name="AhmedGamal09/ViPER4AndroidFX" remote="mojito" revision="v4a" />
         
         <remove-project name="lineageos/android_hardware_xiaomi" />
-        <project path="hardware/xiaomi" name="AhmedGamal09/hardware_xiaomi" remote="mojito" revision="xt-stable" clone-depth="1" />
+        <project path="hardware/xiaomi" name="romgharti/android_hardware_xiaomi" remote="mojito" revision="mojito" clone-depth="1" />
 
         <!--remove-project name="bionic" />
         <project path="bionic" name="AhmedGamal09/bionic" remote="mojito" revision="alpha-13" /-->
