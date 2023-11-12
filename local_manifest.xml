@@ -21,7 +21,7 @@
         <project path="prebuilts/clang/host/linux-x86/clang-r498229b" name="android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="crdroidlab" revision="13.0" />
 
          <!-- Packages -->
-        <project path="packages/apps/ViPER4AndroidFX" name="AhmedGamal09/ViPER4AndroidFX" remote="mojito" revision="v4a" />
+        <!-- project path="packages/apps/ViPER4AndroidFX" name="AhmedGamal09/ViPER4AndroidFX" remote="mojito" revision="v4a" / -->
         
         <remove-project name="lineageos/android_hardware_xiaomi" />
         <project path="hardware/xiaomi" name="romgharti/android_hardware_xiaomi" remote="mojito" revision="mojito" clone-depth="1" />
